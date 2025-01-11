@@ -17,6 +17,10 @@
 
    介绍如何调用 DeepSeek 的 API，以及通过基础的提示词来与模型进行交互。
 
+2. [Multi-turn prompts in conversations](https://github.com/Minghao-Liang/DeepSeek_Prompt_Engineering/blob/main/2-multi_turn_prompts.ipynb)
+
+   使用 LangChain，构建多轮对话的问答，并且在多轮对话中可以保存上下文的 prompts，进行多轮对话中的提示。
+
 ------
 
 ## Reference
