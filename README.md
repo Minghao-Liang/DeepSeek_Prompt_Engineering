@@ -25,6 +25,10 @@
 
    探索 few-shot prompt 如何让模型生成你想要的输出，并了解如何编写高质量的 few-shot prompt 以最大限度提升模型的性能。
 
+4. [Chain of Thought Prompting](https://github.com/Minghao-Liang/DeepSeek_Prompt_Engineering/blob/main/4-chain_of_thought.ipynb)
+
+   了解 Chain of Thought 的能力，学习如何引导模型用逐步推理的能力去回答问题，可以展示模型回答问题的思维过程。
+
 ------
 
 ## Reference
